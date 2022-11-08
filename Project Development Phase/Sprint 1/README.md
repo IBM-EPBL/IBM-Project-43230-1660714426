@@ -1,5 +1,12 @@
 #About sprint 1 :
 
-The model was trained and tested using the dataset
+we succesfully developed a program which can detect hand gestures
 
-The model is successfully recognizing the hand gestures
+It is very fast compared to other models
+
+it is capable of detecting all the finger gestures
+
+python libraries required are opencv, cvzone, mediapipe
+pip install opencv
+pip install cvzone
+pip install mediapipe
